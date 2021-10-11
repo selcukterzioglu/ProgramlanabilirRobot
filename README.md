@@ -1,11 +1,15 @@
 # ProgramlanabilirRobot
 
- Program butonuna basılınca PROGRAMLAMA moduna girer ve 
- yön tuşlarına her basmayı kaydeder. Tekrar program butonu
- ile PROGRAMLAMA modundan çıkar. Start butonuna basıldığına
- hafızasındaki hareketleri uygular.
- Hareketleri EEPROM' kaydettiği için silinmez kapatıp açsanızda
- hafızada kalır. Yeniden PROGRAM moduna girdiğinizde eski programı 
+ PROGRAM butonuna basılınca PROGRAMLAMA moduna girer ve 
+ yön tuşlarına her basmayı kaydeder. Tekrar PROGRAM butonu
+ ile PROGRAMLAMA modundan çıkar. 
+ 
+ START butonuna basıldığına hafızasındaki hareketleri uygular.
+ 
+ Hareketleri EEPROM'A kaydettiği için silinmez kapatıp açsanızda
+ hafızada kalır. 
+ 
+ Yeniden PROGRAM moduna girdiğinizde eski programı 
  siler.
  
 # Devre Bağlantıları
